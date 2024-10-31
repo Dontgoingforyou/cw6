@@ -5,6 +5,8 @@ import logging
 from users.models import User
 
 logger = logging.getLogger(__name__)
+
+
 class UserRegisterForm(UserCreationForm):
     class Meta:
         model = User

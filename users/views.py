@@ -35,7 +35,7 @@ class LoginView(FormView):
     success_url = reverse_lazy('mailing_service:mailing_list')
 
     def form_valid(self, form):
-        user = form.get_user()
+        user = form.user_cache
         login(self.request, user)
         return super().form_valid(form)
 
