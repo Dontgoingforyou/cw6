@@ -26,8 +26,12 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+
+    'rest_framework',
+    'rest_framework.authtoken',
     'mailing_service',
     'django_apscheduler',
+    'users',
 ]
 
 MIDDLEWARE = [
@@ -156,3 +160,5 @@ LOGGING = {
         },
     },
 }
+
+AUTH_USER_MODEL = 'users.User'
