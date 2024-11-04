@@ -5,7 +5,7 @@ from django.urls import reverse_lazy, reverse
 from django.views import View
 from django.views.generic import CreateView, FormView
 from users.forms import UserRegisterForm, EmailAuthenticationForm, User
-from users.services import send_registrations_email
+from users.services import send_registrations_email, send_verification_email
 
 
 class UserCreateView(CreateView):
@@ -20,13 +20,16 @@ class UserCreateView(CreateView):
             form.add_error('email', 'Пользователь с таким email уже существует')
             return self.form_invalid(form)
 
-        response = super().form_valid(form)
-        user = self.object
-        login(self.request, user)
-        send_registrations_email(user)
-        Token.objects.get_or_create(user=user)
+        user = form.save(commit=False)
+        user.is_active = False
+        user.save()
 
-        return response
+        token, created = Token.objects.get_or_create(user=user)
+        send_verification_email(user, token, self.request.get_host())
+        send_registrations_email(user)
+        return redirect('users:verification')
+
+
 
 
 class LoginView(FormView):
@@ -47,7 +50,8 @@ class LogoutView(View):
 
 
 def email_verification(request, token):
-    user = get_object_or_404(User, token=token)
+    token_instance = get_object_or_404(Token, key=token)
+    user = token_instance.user
     user.is_active = True
     user.save()
     return redirect(reverse('users:login'))

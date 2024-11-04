@@ -2,33 +2,11 @@ from django.utils import timezone
 
 from django.db import models
 
+from clients.models import Client
+from message.models import Message
+from users.models import User
+
 NULLABLE = {'blank': True, 'null': True}
-
-
-class Client(models.Model):
-    email = models.EmailField(unique=True, verbose_name="Email")
-    full_name = models.CharField(max_length=200, verbose_name="ФИО")
-    comment = models.TextField(**NULLABLE)
-
-    class Meta:
-        verbose_name = "Клиент сервиса"
-        verbose_name_plural = "Клиенты сервиса"
-
-    def __str__(self):
-        return f"{self.full_name} ({self.email})"
-
-
-class Message(models.Model):
-    topic = models.CharField(max_length=200, verbose_name="Тема")
-    body = models.TextField()
-
-    class Meta:
-        verbose_name = "Сообщение"
-        verbose_name_plural = "Сообщения"
-
-    def __str__(self):
-        return self.topic
-
 
 class Mailing(models.Model):
     """
@@ -54,10 +32,17 @@ class Mailing(models.Model):
     status = models.CharField(max_length=10, choices=STATUS_CHOICES, default='created', verbose_name='Статус рассылки')
     message = models.ForeignKey(Message, on_delete=models.CASCADE, verbose_name="Сообщение")
     clients = models.ManyToManyField(Client, related_name='mailings', verbose_name='Клиент сервиса')
+    owner = models.ForeignKey(User, on_delete=models.CASCADE, verbose_name='Владелец', null=True)
+    is_active = models.BooleanField(default=True)
 
     class Meta:
         verbose_name = "Рассылка"
         verbose_name_plural = "Рассылки"
+        permissions = [
+            ('can_view_mailing', 'Can view mailing'),
+            ('can_block_user', 'Can block user'),
+            ('can_disable_mailing', 'Can disable mailing'),
+        ]
 
     def __str__(self):
         return f"Рассылка: {self.start_datetime}, {self.periodicity}, {self.status}, {self.message}, {self.clients}"

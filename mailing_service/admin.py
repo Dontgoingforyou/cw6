@@ -1,18 +1,6 @@
 from django.contrib import admin
 
-from mailing_service.models import Client, Message, Mailing, Attempt
-
-
-@admin.register(Client)
-class ClientAdmin(admin.ModelAdmin):
-    list_display = ('email', 'full_name', 'comment')
-    search_fields = ('email', 'full_name')
-
-
-@admin.register(Message)
-class MessageAdmin(admin.ModelAdmin):
-    list_display = ('topic',)
-    search_fields = ('topic',)
+from mailing_service.models import Mailing, Attempt
 
 
 @admin.register(Mailing)

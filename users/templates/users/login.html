@@ -23,29 +23,11 @@
 <form class="form-signin" method="post">
     {% csrf_token %}
     <div class="text-center mb-4">
-        <img class="mb-4" src="https://getbootstrap.com/docs/4.0/assets/brand/bootstrap-solid.svg" alt="" width="72"
-             height="72">
         <h1 class="h3 mb-3 font-weight-normal">Система рассылок</h1>
         <p>Вход</p>
     </div>
-
-    {% if form.errors %}
-    <div class="alert alert-danger">
-        {{ form.errors }}
-    </div>
-    {% endif %}
-
-    <div class="form-label-group">
-        <input type="email" name="email" id="inputEmail" class="form-control" placeholder="Email address" required
-               autofocus>
-        <label for="inputEmail">Введите адрес электронной почты</label>
-    </div>
-
-    <div class="form-label-group">
-        <input type="password" name="password" id="inputPassword" class="form-control" placeholder="Password" required>
-        <label for="inputPassword">Введите пароль</label>
-    </div>
-
+    {{ form.none_field_errors }}
+        {{ form.as_p }}
     <div class="checkbox mb-3">
         <label>
             <input type="checkbox" value="remember-me"> Запомнить меня
