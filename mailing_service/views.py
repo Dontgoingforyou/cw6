@@ -1,6 +1,6 @@
-from django.contrib.auth.mixins import LoginRequiredMixin
+from django.contrib.auth.mixins import LoginRequiredMixin, PermissionRequiredMixin
 from django.core.exceptions import PermissionDenied
-from django.shortcuts import render
+from django.shortcuts import render, get_object_or_404
 from django.urls import reverse_lazy
 from django.views.generic import ListView, DetailView, CreateView, UpdateView, DeleteView
 
@@ -42,13 +42,15 @@ class MailingCreateView(CreateView):
         return super().form_valid(form)
 
 
-class MailingUpdateView(LoginRequiredMixin, UpdateView):
+class MailingUpdateView(LoginRequiredMixin, PermissionRequiredMixin, UpdateView):
     model = Mailing
     fields = ['start_datetime', 'periodicity', 'message', 'clients']
     success_url = reverse_lazy('mailing_service:mailing_list')
+    permission_required = (
+    'mailing_service.can_view_mailing', 'mailing_service.can_block_user', 'mailing_service.can_disable_mailing')
 
     def get_object(self, queryset=None):
-        mailing = super().get_object(queryset)
+        mailing = get_object_or_404(Mailing, id=self.kwargs['pk'])
         if mailing.owner != self.request.user:
             raise PermissionDenied("У вас нет прав редактировать эту рассылку.")
         return mailing
