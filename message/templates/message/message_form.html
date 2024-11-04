@@ -1,0 +1,29 @@
+
+{% extends 'mailing_service/base.html' %}
+
+{% block title %}{% if form.instance.pk %}Редактировать Сообщение{% else %}Создать сообщение{% endif %}{% endblock %}
+
+{% block content %}
+<h1>{% if form.instance.pk %}Редактировать Сообщение{% else %}Создать Сообщение{% endif %}</h1>
+<form method="post">
+    {% csrf_token %}
+    {{ form.non_field_errors }}
+    <div class="mb-3">
+        <label for="id_topic" class="form-label">Тема</label>
+        {{ form.topic }}
+        {{ form.topic.errors }}
+    </div>
+    <div class="mb-3">
+        <label for="id_body" class="form-label">Текст</label>
+        {{ form.body }}
+        {{ form.body.errors }}
+    </div>
+    <div class="mb-3">
+        <label for="id_owner" class="form-label">Владелец</label>
+        {{ form.owner }}
+        {{ form.owner.errors }}
+    </div>
+    <button type="submit" class="btn btn-success">Сохранить</button>
+    <a href="{% url 'message:message_list' %}" class="btn btn-secondary">Отмена</a>
+</form>
+{% endblock %}

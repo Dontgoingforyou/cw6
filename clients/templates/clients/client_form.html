@@ -1,0 +1,33 @@
+{% extends 'mailing_service/base.html' %}
+
+{% block title %}{% if form.instance.pk %}Редактировать Клиента{% else %}Создать Клиента{% endif %}{% endblock %}
+
+{% block content %}
+<h1>{% if form.instance.pk %}Редактировать Клиента{% else %}Создать Клиента{% endif %}</h1>
+<form method="post">
+    {% csrf_token %}
+    {{ form.non_field_errors }}
+    <div class="mb-3">
+        <label for="id_email" class="form-label">Email</label>
+        {{ form.email }}
+        {{ form.email.errors }}
+    </div>
+    <div class="mb-3">
+        <label for="id_full_name" class="form-label">ФИО</label>
+        {{ form.full_name }}
+        {{ form.full_name.errors }}
+    </div>
+    <div class="mb-3">
+        <label for="id_comment" class="form-label">Сообщение</label>
+        {{ form.comment }}
+        {{ form.comment.errors }}
+    </div>
+    <div class="mb-3">
+        <label for="id_owner" class="form-label">Владелец</label>
+        {{ form.owner }}
+        {{ form.owner.errors }}
+    </div>
+    <button type="submit" class="btn btn-success">Сохранить</button>
+    <a href="{% url 'clients:clients_list' %}" class="btn btn-secondary">Отмена</a>
+</form>
+{% endblock %}

@@ -6,9 +6,10 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
+<div class="container mt-3">
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container-fluid">
-            <a class="navbar-brand" href="{% url 'mailing_list' %}">Сервис Рассылок</a>
+            <a class="navbar-brand" href="/">Сервис Рассылок</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                     aria-controls="navbarNav" aria-expanded="false" aria-label="Переключить навигацию">
                 <span class="navbar-toggler-icon"></span>
@@ -16,19 +17,26 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link" href="{% url 'mailing_list' %}">Рассылки</a>
+                        <a class="nav-link" href="{% url 'mailing_service:mailing_list' %}">Рассылки</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Клиенты</a>
+                        <a class="nav-link" href="{% url 'clients:clients_list' %}">Клиенты</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Сообщения</a>
+                        <a class="nav-link" href="{% url 'message:message_list' %}">Сообщения</a>
                     </li>
                 </ul>
+            <div class="ms-auto">
+                {% if user.is_authenticated %}
+                    <a href="{% url 'users:login' %}" class="btn btn-primary mb-3">Выйти</a>
+                {% else %}
+                    <a href="{% url 'users:login' %}" class="btn btn-primary mb-3">Выйти</a>
+                {% endif %}
+                </div>
             </div>
         </div>
     </nav>
-
+</div>
     <div class="container mt-4">
         {% block content %}
         {% endblock %}
