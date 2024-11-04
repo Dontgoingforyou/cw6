@@ -9,4 +9,4 @@ class MailingServiceConfig(AppConfig):
         import time
         from .scheduler import start
         time.sleep(2)
-        start()
+        # start()
