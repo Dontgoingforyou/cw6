@@ -38,6 +38,11 @@ class Mailing(models.Model):
     class Meta:
         verbose_name = "Рассылка"
         verbose_name_plural = "Рассылки"
+        permissions = [
+            ('can_view_mailing', 'Can view mailing'),
+            ('can_block_user', 'Can block user'),
+            ('can_disable_mailing', 'Can disable mailing'),
+        ]
 
     def __str__(self):
         return f"Рассылка: {self.start_datetime}, {self.periodicity}, {self.status}, {self.message}, {self.clients}"

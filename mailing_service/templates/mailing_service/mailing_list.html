@@ -25,10 +25,12 @@
             <td>{{ mailing.get_status_display }}</td>
             <td>{{ mailing.start_datetime }}</td>
             <td>
-                <a href="{% url 'mailing_service:mailing_detail' mailing.id %}" class="btn btn-info btn-sm">Просмотр</a>
-                <a href="{% url 'mailing_service:mailing_update' mailing.id %}" class="btn btn-warning btn-sm">Редактировать</a>
-                <a href="{% url 'mailing_service:mailing_delete' mailing.id %}" class="btn btn-danger btn-sm">Удалить</a>
-            </td>
+            <a href="{% url 'mailing_service:mailing_detail' mailing.id %}" class="btn btn-info btn-sm">Просмотр</a>
+                {% if perms.mailing.can_view_mailing and mailing.can_block_user and mailing.can_disable_mailing or user == mailing.owner %}
+                    <a href="{% url 'mailing_service:mailing_update' mailing.id %}" class="btn btn-warning btn-sm">Редактировать</a>
+                    <a href="{% url 'mailing_service:mailing_delete' mailing.id %}" class="btn btn-danger btn-sm">Удалить</a>
+                {% endif %}
+</td>
         </tr>
         {% empty %}
         <tr>
