@@ -8,6 +8,7 @@ from users.models import User
 
 NULLABLE = {'blank': True, 'null': True}
 
+
 class Mailing(models.Model):
     """
     PERIODICITY_CHOICES, STATUS_CHOICES - наборы значении для полей periodicity и status соответственно

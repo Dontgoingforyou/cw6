@@ -1,10 +1,11 @@
+from django.contrib.auth.views import LoginView
 from rest_framework.authtoken.models import Token
 from django.contrib.auth import login, logout
 from django.shortcuts import get_object_or_404, redirect
 from django.urls import reverse_lazy, reverse
 from django.views import View
-from django.views.generic import CreateView, FormView
-from users.forms import UserRegisterForm, EmailAuthenticationForm, User
+from django.views.generic import CreateView
+from users.forms import UserRegisterForm, User, EmailAuthenticationForm
 from users.services import send_registrations_email, send_verification_email
 
 
@@ -30,12 +31,10 @@ class UserCreateView(CreateView):
         return redirect('users:verification')
 
 
-
-
-class LoginView(FormView):
-    form_class = EmailAuthenticationForm
+class CustomLoginView(LoginView):
     template_name = 'users/login.html'
     success_url = reverse_lazy('mailing_service:mailing_list')
+    form_class = EmailAuthenticationForm
 
     def form_valid(self, form):
         user = form.user_cache

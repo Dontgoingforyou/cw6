@@ -1,0 +1,6649 @@
+[
+  {
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+      "action_time": "2024-11-02T16:05:53.394Z",
+      "user": 7,
+      "content_type": 6,
+      "object_id": "1",
+      "object_repr": "Михайлусов Михаил Васильевич (mishael000@yandex.ru)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+      "action_time": "2024-11-02T17:49:32.402Z",
+      "user": 7,
+      "content_type": 16,
+      "object_id": "1",
+      "object_repr": "Михайлусов Михаил Васильевич (mishael000@yandex.ru)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+      "action_time": "2024-11-02T18:35:11.005Z",
+      "user": 7,
+      "content_type": 17,
+      "object_id": "1",
+      "object_repr": "ТЕСТ",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+      "action_time": "2024-11-02T18:50:02.317Z",
+      "user": 7,
+      "content_type": 15,
+      "object_id": "1",
+      "object_repr": "Какой-то блог",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+      "action_time": "2024-11-02T19:01:47.721Z",
+      "user": 7,
+      "content_type": 15,
+      "object_id": "1",
+      "object_repr": "Какой-то блог",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0418\\u0437\\u043e\\u0431\\u0440\\u0430\\u0436\\u0435\\u043d\\u0438\\u0435\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+      "action_time": "2024-11-04T15:29:16.386Z",
+      "user": 7,
+      "content_type": 12,
+      "object_id": "9",
+      "object_repr": "mishael000@yandex.ru",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+      "action_time": "2024-11-04T15:33:04.009Z",
+      "user": 7,
+      "content_type": 12,
+      "object_id": "10",
+      "object_repr": "mishael000@yandex.ru",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+      "action_time": "2024-11-04T15:37:18.637Z",
+      "user": 7,
+      "content_type": 12,
+      "object_id": "11",
+      "object_repr": "mishael000@yandex.ru",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+      "action_time": "2024-11-04T15:37:37.356Z",
+      "user": 7,
+      "content_type": 12,
+      "object_id": "12",
+      "object_repr": "mishael000@yandex.ru",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+      "action_time": "2024-11-04T15:38:46.153Z",
+      "user": 7,
+      "content_type": 12,
+      "object_id": "13",
+      "object_repr": "mishael000@yandex.ru",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+      "action_time": "2024-11-04T15:40:46.074Z",
+      "user": 7,
+      "content_type": 12,
+      "object_id": "14",
+      "object_repr": "mishael000@yandex.ru",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+      "action_time": "2024-11-04T15:55:48.889Z",
+      "user": 7,
+      "content_type": 3,
+      "object_id": "1",
+      "object_repr": "management",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+      "action_time": "2024-11-04T15:55:53.452Z",
+      "user": 7,
+      "content_type": 3,
+      "object_id": "1",
+      "object_repr": "management",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+      "action_time": "2024-11-04T15:59:08.090Z",
+      "user": 7,
+      "content_type": 12,
+      "object_id": "7",
+      "object_repr": "admin@example.com",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Groups\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+      "action_time": "2024-11-04T16:00:14.848Z",
+      "user": 7,
+      "content_type": 12,
+      "object_id": "7",
+      "object_repr": "admin@example.com",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+      "action_time": "2024-11-04T16:00:57.746Z",
+      "user": 7,
+      "content_type": 12,
+      "object_id": "15",
+      "object_repr": "mishael000@yandex.ru",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Groups\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+      "action_time": "2024-11-04T16:02:50.869Z",
+      "user": 7,
+      "content_type": 12,
+      "object_id": "15",
+      "object_repr": "mishael000@yandex.ru",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+      "action_time": "2024-11-04T16:05:51.463Z",
+      "user": 7,
+      "content_type": 12,
+      "object_id": "15",
+      "object_repr": "mishael000@yandex.ru",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Groups\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+      "action_time": "2024-11-04T16:06:38.711Z",
+      "user": 7,
+      "content_type": 12,
+      "object_id": "15",
+      "object_repr": "mishael000@yandex.ru",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+      "action_time": "2024-11-04T16:12:01.344Z",
+      "user": 7,
+      "content_type": 12,
+      "object_id": "16",
+      "object_repr": "mishael00@yandex.ru",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+      "action_time": "2024-11-04T16:18:15.418Z",
+      "user": 7,
+      "content_type": 12,
+      "object_id": "15",
+      "object_repr": "mishael000@yandex.ru",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Groups\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+      "action_time": "2024-11-04T16:18:25.317Z",
+      "user": 7,
+      "content_type": 12,
+      "object_id": "15",
+      "object_repr": "mishael000@yandex.ru",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Groups\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+      "action_time": "2024-11-04T16:26:40.073Z",
+      "user": 7,
+      "content_type": 3,
+      "object_id": "1",
+      "object_repr": "management",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+      "action_time": "2024-11-04T17:04:51.746Z",
+      "user": 7,
+      "content_type": 3,
+      "object_id": "1",
+      "object_repr": "management",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+      "action_time": "2024-11-04T17:06:41.357Z",
+      "user": 7,
+      "content_type": 3,
+      "object_id": "2",
+      "object_repr": "Management",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+      "action_time": "2024-11-04T17:06:50.396Z",
+      "user": 7,
+      "content_type": 12,
+      "object_id": "15",
+      "object_repr": "mishael000@yandex.ru",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Groups\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+      "action_time": "2024-11-04T17:09:49.751Z",
+      "user": 7,
+      "content_type": 3,
+      "object_id": "2",
+      "object_repr": "Management",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+      "action_time": "2024-11-04T17:10:51.485Z",
+      "user": 7,
+      "content_type": 3,
+      "object_id": "3",
+      "object_repr": "Management",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+      "action_time": "2024-11-04T17:11:01.065Z",
+      "user": 7,
+      "content_type": 12,
+      "object_id": "15",
+      "object_repr": "mishael000@yandex.ru",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Groups\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+      "action_time": "2024-11-04T17:15:01.629Z",
+      "user": 7,
+      "content_type": 8,
+      "object_id": "5",
+      "object_repr": "Рассылка: 2024-11-04 16:01:04+00:00, once, completed, ТЕСТ, clients.Client.None",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0412\\u043b\\u0430\\u0434\\u0435\\u043b\\u0435\\u0446\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 32,
+    "fields": {
+      "action_time": "2024-11-04T17:15:04.686Z",
+      "user": 7,
+      "content_type": 8,
+      "object_id": "4",
+      "object_repr": "Рассылка: 2024-11-04 15:58:48+00:00, once, completed, ТЕСТ2, clients.Client.None",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 33,
+    "fields": {
+      "action_time": "2024-11-04T17:15:09.393Z",
+      "user": 7,
+      "content_type": 8,
+      "object_id": "6",
+      "object_repr": "Рассылка: 2024-11-05 16:08:20+00:00, daily, started, ТЕСТ, clients.Client.None",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0412\\u043b\\u0430\\u0434\\u0435\\u043b\\u0435\\u0446\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 34,
+    "fields": {
+      "action_time": "2024-11-04T17:15:52.474Z",
+      "user": 7,
+      "content_type": 8,
+      "object_id": "3",
+      "object_repr": "Рассылка: 2024-11-02 16:06:00+00:00, once, completed, ТЕСТ, clients.Client.None",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0412\\u043b\\u0430\\u0434\\u0435\\u043b\\u0435\\u0446\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 35,
+    "fields": {
+      "action_time": "2024-11-04T17:17:48.157Z",
+      "user": 7,
+      "content_type": 8,
+      "object_id": "3",
+      "object_repr": "Рассылка: 2024-11-02 16:06:00+00:00, once, completed, ТЕСТ, clients.Client.None",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0412\\u043b\\u0430\\u0434\\u0435\\u043b\\u0435\\u0446\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 36,
+    "fields": {
+      "action_time": "2024-11-04T17:18:07.053Z",
+      "user": 7,
+      "content_type": 12,
+      "object_id": "7",
+      "object_repr": "admin@example.com",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Groups\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 37,
+    "fields": {
+      "action_time": "2024-11-05T13:10:06.124Z",
+      "user": 7,
+      "content_type": 8,
+      "object_id": "5",
+      "object_repr": "Рассылка: 2024-11-04 16:01:04+00:00, once, completed, ТЕСТ, clients.Client.None",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0412\\u043b\\u0430\\u0434\\u0435\\u043b\\u0435\\u0446\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 38,
+    "fields": {
+      "action_time": "2024-11-05T13:10:13.330Z",
+      "user": 7,
+      "content_type": 12,
+      "object_id": "15",
+      "object_repr": "mishael000@yandex.ru",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 39,
+    "fields": {
+      "action_time": "2024-11-05T16:07:07.189Z",
+      "user": 7,
+      "content_type": 8,
+      "object_id": "6",
+      "object_repr": "Рассылка: 2024-11-05 16:08:20+00:00, daily, started, ТЕСТ, clients.Client.None",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0412\\u043b\\u0430\\u0434\\u0435\\u043b\\u0435\\u0446\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 40,
+    "fields": {
+      "action_time": "2024-11-05T16:26:22.512Z",
+      "user": 7,
+      "content_type": 17,
+      "object_id": "1",
+      "object_repr": "ТЕСТ",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0412\\u043b\\u0430\\u0434\\u0435\\u043b\\u0435\\u0446\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 41,
+    "fields": {
+      "action_time": "2024-11-05T16:26:24.952Z",
+      "user": 7,
+      "content_type": 17,
+      "object_id": "2",
+      "object_repr": "ТЕСТ2",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 42,
+    "fields": {
+      "action_time": "2024-11-05T16:26:45.859Z",
+      "user": 7,
+      "content_type": 16,
+      "object_id": "1",
+      "object_repr": "Михайлусов Михаил Васильевич (mishael000@yandex.ru)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0412\\u043b\\u0430\\u0434\\u0435\\u043b\\u0435\\u0446\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 43,
+    "fields": {
+      "action_time": "2024-11-05T16:30:01.130Z",
+      "user": 7,
+      "content_type": 16,
+      "object_id": "1",
+      "object_repr": "Михайлусов Михаил Васильевич (mishael000@yandex.ru)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0412\\u043b\\u0430\\u0434\\u0435\\u043b\\u0435\\u0446\"]}}]"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 1,
+    "fields": {
+      "name": "Can add log entry",
+      "content_type": 1,
+      "codename": "add_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 2,
+    "fields": {
+      "name": "Can change log entry",
+      "content_type": 1,
+      "codename": "change_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 3,
+    "fields": {
+      "name": "Can delete log entry",
+      "content_type": 1,
+      "codename": "delete_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 4,
+    "fields": {
+      "name": "Can view log entry",
+      "content_type": 1,
+      "codename": "view_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 5,
+    "fields": {
+      "name": "Can add permission",
+      "content_type": 2,
+      "codename": "add_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 6,
+    "fields": {
+      "name": "Can change permission",
+      "content_type": 2,
+      "codename": "change_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 7,
+    "fields": {
+      "name": "Can delete permission",
+      "content_type": 2,
+      "codename": "delete_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 8,
+    "fields": {
+      "name": "Can view permission",
+      "content_type": 2,
+      "codename": "view_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 9,
+    "fields": {
+      "name": "Can add group",
+      "content_type": 3,
+      "codename": "add_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 10,
+    "fields": {
+      "name": "Can change group",
+      "content_type": 3,
+      "codename": "change_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 11,
+    "fields": {
+      "name": "Can delete group",
+      "content_type": 3,
+      "codename": "delete_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 12,
+    "fields": {
+      "name": "Can view group",
+      "content_type": 3,
+      "codename": "view_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 13,
+    "fields": {
+      "name": "Can add content type",
+      "content_type": 4,
+      "codename": "add_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 14,
+    "fields": {
+      "name": "Can change content type",
+      "content_type": 4,
+      "codename": "change_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 15,
+    "fields": {
+      "name": "Can delete content type",
+      "content_type": 4,
+      "codename": "delete_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 16,
+    "fields": {
+      "name": "Can view content type",
+      "content_type": 4,
+      "codename": "view_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 17,
+    "fields": {
+      "name": "Can add session",
+      "content_type": 5,
+      "codename": "add_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 18,
+    "fields": {
+      "name": "Can change session",
+      "content_type": 5,
+      "codename": "change_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 19,
+    "fields": {
+      "name": "Can delete session",
+      "content_type": 5,
+      "codename": "delete_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 20,
+    "fields": {
+      "name": "Can view session",
+      "content_type": 5,
+      "codename": "view_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 21,
+    "fields": {
+      "name": "Can add Клиент сервиса",
+      "content_type": 6,
+      "codename": "add_client"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 22,
+    "fields": {
+      "name": "Can change Клиент сервиса",
+      "content_type": 6,
+      "codename": "change_client"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 23,
+    "fields": {
+      "name": "Can delete Клиент сервиса",
+      "content_type": 6,
+      "codename": "delete_client"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 24,
+    "fields": {
+      "name": "Can view Клиент сервиса",
+      "content_type": 6,
+      "codename": "view_client"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 25,
+    "fields": {
+      "name": "Can add Сообщение",
+      "content_type": 7,
+      "codename": "add_message"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 26,
+    "fields": {
+      "name": "Can change Сообщение",
+      "content_type": 7,
+      "codename": "change_message"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 27,
+    "fields": {
+      "name": "Can delete Сообщение",
+      "content_type": 7,
+      "codename": "delete_message"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 28,
+    "fields": {
+      "name": "Can view Сообщение",
+      "content_type": 7,
+      "codename": "view_message"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 29,
+    "fields": {
+      "name": "Can add Рассылка",
+      "content_type": 8,
+      "codename": "add_mailing"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 30,
+    "fields": {
+      "name": "Can change Рассылка",
+      "content_type": 8,
+      "codename": "change_mailing"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 31,
+    "fields": {
+      "name": "Can delete Рассылка",
+      "content_type": 8,
+      "codename": "delete_mailing"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 32,
+    "fields": {
+      "name": "Can view Рассылка",
+      "content_type": 8,
+      "codename": "view_mailing"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 33,
+    "fields": {
+      "name": "Can add Попытка рассылки",
+      "content_type": 9,
+      "codename": "add_attempt"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 34,
+    "fields": {
+      "name": "Can change Попытка рассылки",
+      "content_type": 9,
+      "codename": "change_attempt"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 35,
+    "fields": {
+      "name": "Can delete Попытка рассылки",
+      "content_type": 9,
+      "codename": "delete_attempt"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 36,
+    "fields": {
+      "name": "Can view Попытка рассылки",
+      "content_type": 9,
+      "codename": "view_attempt"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 37,
+    "fields": {
+      "name": "Can add django job",
+      "content_type": 10,
+      "codename": "add_djangojob"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 38,
+    "fields": {
+      "name": "Can change django job",
+      "content_type": 10,
+      "codename": "change_djangojob"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 39,
+    "fields": {
+      "name": "Can delete django job",
+      "content_type": 10,
+      "codename": "delete_djangojob"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 40,
+    "fields": {
+      "name": "Can view django job",
+      "content_type": 10,
+      "codename": "view_djangojob"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 41,
+    "fields": {
+      "name": "Can add django job execution",
+      "content_type": 11,
+      "codename": "add_djangojobexecution"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 42,
+    "fields": {
+      "name": "Can change django job execution",
+      "content_type": 11,
+      "codename": "change_djangojobexecution"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 43,
+    "fields": {
+      "name": "Can delete django job execution",
+      "content_type": 11,
+      "codename": "delete_djangojobexecution"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 44,
+    "fields": {
+      "name": "Can view django job execution",
+      "content_type": 11,
+      "codename": "view_djangojobexecution"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 45,
+    "fields": {
+      "name": "Can add Пользователь",
+      "content_type": 12,
+      "codename": "add_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 46,
+    "fields": {
+      "name": "Can change Пользователь",
+      "content_type": 12,
+      "codename": "change_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 47,
+    "fields": {
+      "name": "Can delete Пользователь",
+      "content_type": 12,
+      "codename": "delete_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 48,
+    "fields": {
+      "name": "Can view Пользователь",
+      "content_type": 12,
+      "codename": "view_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 49,
+    "fields": {
+      "name": "Can add Token",
+      "content_type": 13,
+      "codename": "add_token"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 50,
+    "fields": {
+      "name": "Can change Token",
+      "content_type": 13,
+      "codename": "change_token"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 51,
+    "fields": {
+      "name": "Can delete Token",
+      "content_type": 13,
+      "codename": "delete_token"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 52,
+    "fields": {
+      "name": "Can view Token",
+      "content_type": 13,
+      "codename": "view_token"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 53,
+    "fields": {
+      "name": "Can add Token",
+      "content_type": 14,
+      "codename": "add_tokenproxy"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 54,
+    "fields": {
+      "name": "Can change Token",
+      "content_type": 14,
+      "codename": "change_tokenproxy"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 55,
+    "fields": {
+      "name": "Can delete Token",
+      "content_type": 14,
+      "codename": "delete_tokenproxy"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 56,
+    "fields": {
+      "name": "Can view Token",
+      "content_type": 14,
+      "codename": "view_tokenproxy"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 57,
+    "fields": {
+      "name": "Can add Запись в блоге",
+      "content_type": 15,
+      "codename": "add_blogpost"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 58,
+    "fields": {
+      "name": "Can change Запись в блоге",
+      "content_type": 15,
+      "codename": "change_blogpost"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 59,
+    "fields": {
+      "name": "Can delete Запись в блоге",
+      "content_type": 15,
+      "codename": "delete_blogpost"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 60,
+    "fields": {
+      "name": "Can view Запись в блоге",
+      "content_type": 15,
+      "codename": "view_blogpost"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 61,
+    "fields": {
+      "name": "Can add Клиент сервиса",
+      "content_type": 16,
+      "codename": "add_client"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 62,
+    "fields": {
+      "name": "Can change Клиент сервиса",
+      "content_type": 16,
+      "codename": "change_client"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 63,
+    "fields": {
+      "name": "Can delete Клиент сервиса",
+      "content_type": 16,
+      "codename": "delete_client"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 64,
+    "fields": {
+      "name": "Can view Клиент сервиса",
+      "content_type": 16,
+      "codename": "view_client"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 65,
+    "fields": {
+      "name": "Can add Сообщение",
+      "content_type": 17,
+      "codename": "add_message"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 66,
+    "fields": {
+      "name": "Can change Сообщение",
+      "content_type": 17,
+      "codename": "change_message"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 67,
+    "fields": {
+      "name": "Can delete Сообщение",
+      "content_type": 17,
+      "codename": "delete_message"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 68,
+    "fields": {
+      "name": "Can view Сообщение",
+      "content_type": 17,
+      "codename": "view_message"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 69,
+    "fields": {
+      "name": "Can view mailing",
+      "content_type": 8,
+      "codename": "can_view_mailing"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 70,
+    "fields": {
+      "name": "Can block user",
+      "content_type": 8,
+      "codename": "can_block_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 71,
+    "fields": {
+      "name": "Can disable mailing",
+      "content_type": 8,
+      "codename": "can_disable_mailing"
+    }
+  },
+  {
+    "model": "auth.group",
+    "pk": 3,
+    "fields": {
+      "name": "Management",
+      "permissions": [
+        70,
+        71,
+        69
+      ]
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 1,
+    "fields": {
+      "app_label": "admin",
+      "model": "logentry"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 2,
+    "fields": {
+      "app_label": "auth",
+      "model": "permission"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 3,
+    "fields": {
+      "app_label": "auth",
+      "model": "group"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 4,
+    "fields": {
+      "app_label": "contenttypes",
+      "model": "contenttype"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 5,
+    "fields": {
+      "app_label": "sessions",
+      "model": "session"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 6,
+    "fields": {
+      "app_label": "mailing_service",
+      "model": "client"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 7,
+    "fields": {
+      "app_label": "mailing_service",
+      "model": "message"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 8,
+    "fields": {
+      "app_label": "mailing_service",
+      "model": "mailing"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 9,
+    "fields": {
+      "app_label": "mailing_service",
+      "model": "attempt"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 10,
+    "fields": {
+      "app_label": "django_apscheduler",
+      "model": "djangojob"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 11,
+    "fields": {
+      "app_label": "django_apscheduler",
+      "model": "djangojobexecution"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 12,
+    "fields": {
+      "app_label": "users",
+      "model": "user"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 13,
+    "fields": {
+      "app_label": "authtoken",
+      "model": "token"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 14,
+    "fields": {
+      "app_label": "authtoken",
+      "model": "tokenproxy"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 15,
+    "fields": {
+      "app_label": "blogs",
+      "model": "blogpost"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 16,
+    "fields": {
+      "app_label": "clients",
+      "model": "client"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 17,
+    "fields": {
+      "app_label": "message",
+      "model": "message"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "76ao0z85c1zrfvo1qv8iael9lmrh062e",
+    "fields": {
+      "session_data": ".eJxVjDsOwjAQBe_iGln4E--akj5nsNafxQHkSHFSIe4OkVJA-2bmvUSgba1h62UJUxYXAeL0u0VKj9J2kO_UbrNMc1uXKcpdkQftcpxzeV4P9--gUq_f2jhv2cAACYkMRwPp7K3SWVn0UTnUyAqKBmMjECIjcQGXLTO6IRvx_gDJATdx:1t7dV4:Ze9vFk7ZQjumAHrH0e848VrQOMkWO15eLZ-2VPsYZe8",
+      "expire_date": "2024-11-17T16:30:50.611Z"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "9kpsppfhi4ayxlcxji0so1l42gardv3z",
+    "fields": {
+      "session_data": "e30:1t7yRZ:TefkdfrBNLivmBOlJLPiq_-_1q9Rl9UcH3GTdleT6t8",
+      "expire_date": "2024-11-18T14:52:37.320Z"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "b5u3ediuxmshhiva7tfsfwtb0dl0kzep",
+    "fields": {
+      "session_data": ".eJxVjDsOwjAQBe_iGlm2g3-U9DmDtd5d4wBypDipEHeHSCmgfTPzXiLBtta0dV7SROIitBen3zEDPrjthO7QbrPEua3LlOWuyIN2Oc7Ez-vh_h1U6PVbmzBEpQ2FjBpycBwt-aCdsZnMEFEpcsVGtIzenwFiISDlQ8EMROzE-wMAkzjT:1t8Mrf:FHU4qd5-u4rDfxXKgm3vj7Gck7Dt3U-BXBflQzRgK6s",
+      "expire_date": "2024-11-19T16:57:11.620Z"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "fvykamafof4penk4lj1vsqi2qzshjkcu",
+    "fields": {
+      "session_data": "e30:1t6TqW:qoITGQBQDn0f2MXyHz28EStVNKkHwJr989_Rbq88LHs",
+      "expire_date": "2024-11-14T12:00:12.640Z"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "jzu8eth1arhum2xdzpncx95v46j9ocn1",
+    "fields": {
+      "session_data": ".eJxVjMsOgjAQRf-la9NQYDIdl-79BjK3D4saSCisjP-uJCx0e88592UG3dYybDUtwxjN2fTm9LtBwyNNO4h3nW6zDfO0LiPsrtiDVnudY3peDvfvoGgt3xqUAwuYAeckketyFs_c9-o9CcXgxIcGYGo5AqLakpJk7gA0wbw_6q04Sw:1t6Urk:YiEotac9L1mZixwPnM0EeQc0GdhHKbzE0emLIuuYh-o",
+      "expire_date": "2024-11-14T13:05:32.070Z"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "mficeey1fy1z8z25uv9d9x83g80xivwm",
+    "fields": {
+      "session_data": "e30:1t7ySg:iaP2WrbnX2-VSDJOj5jOtLgOXri6R3fchrDNqYETju0",
+      "expire_date": "2024-11-18T14:53:46.078Z"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "ptgk54rk33rg97fve325whbi49qcvdu8",
+    "fields": {
+      "session_data": "e30:1t7yUT:Q0pGvF5MQmzt1xoGGjARd244iLA6jG3jMa7_UJrDEK8",
+      "expire_date": "2024-11-18T14:55:37.378Z"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "u48bm190as453c58d0nw52umh8ky54rh",
+    "fields": {
+      "session_data": "e30:1t7ySu:fb5nM_zBlT1TYK2U7Tk_AaToClIeI8llBQhgk5KDIy4",
+      "expire_date": "2024-11-18T14:54:00.941Z"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "xzl1ev4lxvmd2ertznfhkqsqfrbizml5",
+    "fields": {
+      "session_data": "e30:1t7yVx:lzop6zgzeWp-Z3ghymAU12qTKHi-KIPWLZhuyvHgaeU",
+      "expire_date": "2024-11-18T14:57:09.110Z"
+    }
+  },
+  {
+    "model": "authtoken.token",
+    "pk": "b5c42832e12794095c93518238148311cac9f6b7",
+    "fields": {
+      "user": 17,
+      "created": "2024-11-04T16:24:34.232Z"
+    }
+  },
+  {
+    "model": "authtoken.token",
+    "pk": "f19069e0811314340514e6f9249d0602e692e6a0",
+    "fields": {
+      "user": 18,
+      "created": "2024-11-05T13:10:25.674Z"
+    }
+  },
+  {
+    "model": "mailing_service.mailing",
+    "pk": 3,
+    "fields": {
+      "start_datetime": "2024-11-02T16:06:00Z",
+      "periodicity": "once",
+      "status": "completed",
+      "message": 1,
+      "owner": 17,
+      "is_active": true,
+      "clients": [
+        1
+      ]
+    }
+  },
+  {
+    "model": "mailing_service.mailing",
+    "pk": 4,
+    "fields": {
+      "start_datetime": "2024-11-04T15:58:48Z",
+      "periodicity": "once",
+      "status": "completed",
+      "message": 2,
+      "owner": 7,
+      "is_active": true,
+      "clients": [
+        1
+      ]
+    }
+  },
+  {
+    "model": "mailing_service.mailing",
+    "pk": 5,
+    "fields": {
+      "start_datetime": "2024-11-04T16:01:04Z",
+      "periodicity": "once",
+      "status": "completed",
+      "message": 1,
+      "owner": 7,
+      "is_active": true,
+      "clients": [
+        1
+      ]
+    }
+  },
+  {
+    "model": "mailing_service.mailing",
+    "pk": 6,
+    "fields": {
+      "start_datetime": "2024-11-06T16:28:58.793Z",
+      "periodicity": "daily",
+      "status": "started",
+      "message": 1,
+      "owner": 18,
+      "is_active": true,
+      "clients": [
+        1
+      ]
+    }
+  },
+  {
+    "model": "mailing_service.attempt",
+    "pk": 5,
+    "fields": {
+      "mailing": 3,
+      "attempt_datetime": "2024-11-02T16:11:33.087Z",
+      "status": "successful",
+      "server_response": "Письмо отправлено успешно"
+    }
+  },
+  {
+    "model": "mailing_service.attempt",
+    "pk": 6,
+    "fields": {
+      "mailing": 3,
+      "attempt_datetime": "2024-11-02T16:11:33.087Z",
+      "status": "successful",
+      "server_response": "Письмо отправлено успешно"
+    }
+  },
+  {
+    "model": "mailing_service.attempt",
+    "pk": 7,
+    "fields": {
+      "mailing": 4,
+      "attempt_datetime": "2024-11-04T15:59:20.075Z",
+      "status": "successful",
+      "server_response": "Письмо отправлено успешно"
+    }
+  },
+  {
+    "model": "mailing_service.attempt",
+    "pk": 8,
+    "fields": {
+      "mailing": 4,
+      "attempt_datetime": "2024-11-04T15:59:20.075Z",
+      "status": "successful",
+      "server_response": "Письмо отправлено успешно"
+    }
+  },
+  {
+    "model": "mailing_service.attempt",
+    "pk": 9,
+    "fields": {
+      "mailing": 5,
+      "attempt_datetime": "2024-11-04T16:01:20.075Z",
+      "status": "successful",
+      "server_response": "Письмо отправлено успешно"
+    }
+  },
+  {
+    "model": "mailing_service.attempt",
+    "pk": 10,
+    "fields": {
+      "mailing": 5,
+      "attempt_datetime": "2024-11-04T16:01:20.075Z",
+      "status": "successful",
+      "server_response": "Письмо отправлено успешно"
+    }
+  },
+  {
+    "model": "mailing_service.attempt",
+    "pk": 11,
+    "fields": {
+      "mailing": 6,
+      "attempt_datetime": "2024-11-04T16:08:20.076Z",
+      "status": "successful",
+      "server_response": "Письмо отправлено успешно"
+    }
+  },
+  {
+    "model": "mailing_service.attempt",
+    "pk": 12,
+    "fields": {
+      "mailing": 6,
+      "attempt_datetime": "2024-11-04T16:08:20.076Z",
+      "status": "successful",
+      "server_response": "Письмо отправлено успешно"
+    }
+  },
+  {
+    "model": "mailing_service.attempt",
+    "pk": 13,
+    "fields": {
+      "mailing": 6,
+      "attempt_datetime": "2024-11-05T16:28:58.793Z",
+      "status": "successful",
+      "server_response": "Письмо отправлено успешно"
+    }
+  },
+  {
+    "model": "mailing_service.attempt",
+    "pk": 14,
+    "fields": {
+      "mailing": 6,
+      "attempt_datetime": "2024-11-05T16:28:58.793Z",
+      "status": "successful",
+      "server_response": "Письмо отправлено успешно"
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojob",
+    "pk": "send_due_mailings",
+    "fields": {
+      "next_run_time": "2024-11-05T16:58:45.829Z",
+      "job_state": "gAWV+QEAAAAAAAB9lCiMB3ZlcnNpb26USwGMAmlklIwRc2VuZF9kdWVfbWFpbGluZ3OUjARmdW5jlIwnbWFpbGluZ19zZXJ2aWNlLnRhc2tzOnNlbmRfZHVlX21haWxpbmdzlIwHdHJpZ2dlcpSMHWFwc2NoZWR1bGVyLnRyaWdnZXJzLmludGVydmFslIwPSW50ZXJ2YWxUcmlnZ2VylJOUKYGUfZQoaAFLAowIdGltZXpvbmWUjAhidWlsdGluc5SMB2dldGF0dHKUk5SMCHpvbmVpbmZvlIwIWm9uZUluZm+Uk5SMCV91bnBpY2tsZZSGlFKUjANVVEOUSwGGlFKUjApzdGFydF9kYXRllIwIZGF0ZXRpbWWUjAhkYXRldGltZZSTlEMKB+gLBRA6LQypNpRoGIaUUpSMCGVuZF9kYXRllE6MCGludGVydmFslGgajAl0aW1lZGVsdGGUk5RLAEs8SwCHlFKUjAZqaXR0ZXKUTnVijAhleGVjdXRvcpSMB2RlZmF1bHSUjARhcmdzlCmMBmt3YXJnc5R9lIwEbmFtZZRoA4wSbWlzZmlyZV9ncmFjZV90aW1llEsBjAhjb2FsZXNjZZSIjA1tYXhfaW5zdGFuY2VzlEsBjA1uZXh0X3J1bl90aW1llGgcQwoH6AsFEDotDKk2lGgYhpRSlHUu"
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 1,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T10:51:40.252Z",
+      "duration": "0.03",
+      "finished": "1730371900.28",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 2,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T10:52:40.252Z",
+      "duration": "0.00",
+      "finished": "1730371960.25",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 4,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T10:55:24.995Z",
+      "duration": "0.03",
+      "finished": "1730372125.02",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 5,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T12:00:54.219Z",
+      "duration": "0.03",
+      "finished": "1730376054.25",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 6,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T12:01:54.219Z",
+      "duration": "0.00",
+      "finished": "1730376114.22",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 8,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T12:02:54.219Z",
+      "duration": "0.01",
+      "finished": "1730376174.23",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 10,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T12:03:54.219Z",
+      "duration": "0.00",
+      "finished": "1730376234.22",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 12,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T12:06:48.219Z",
+      "duration": "0.02",
+      "finished": "1730376408.24",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 13,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T12:07:48.219Z",
+      "duration": "0.00",
+      "finished": "1730376468.22",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 15,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T12:09:15.672Z",
+      "duration": "0.02",
+      "finished": "1730376555.69",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 16,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T12:10:15.672Z",
+      "duration": "0.00",
+      "finished": "1730376615.68",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 18,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T12:11:52.774Z",
+      "duration": "0.02",
+      "finished": "1730376712.79",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 20,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T12:12:52.774Z",
+      "duration": "0.00",
+      "finished": "1730376772.78",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 22,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T12:15:54.057Z",
+      "duration": "0.02",
+      "finished": "1730376954.08",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 24,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T12:17:55.478Z",
+      "duration": "0.02",
+      "finished": "1730377075.49",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 25,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T12:18:55.478Z",
+      "duration": "0.00",
+      "finished": "1730377135.48",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 27,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T12:19:55.478Z",
+      "duration": "0.00",
+      "finished": "1730377195.48",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 30,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T12:20:55.478Z",
+      "duration": "0.00",
+      "finished": "1730377255.48",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 31,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T12:23:05.583Z",
+      "duration": "0.02",
+      "finished": "1730377385.60",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 32,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T12:24:40.195Z",
+      "duration": "0.02",
+      "finished": "1730377480.21",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 33,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T12:25:40.195Z",
+      "duration": "0.00",
+      "finished": "1730377540.20",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 36,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T12:26:40.195Z",
+      "duration": "0.00",
+      "finished": "1730377600.20",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 37,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T12:28:33.775Z",
+      "duration": "0.02",
+      "finished": "1730377713.79",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 39,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T12:29:33.775Z",
+      "duration": "0.00",
+      "finished": "1730377773.78",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 41,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T12:30:33.775Z",
+      "duration": "0.00",
+      "finished": "1730377833.78",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 43,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T12:32:07.338Z",
+      "duration": "0.02",
+      "finished": "1730377927.36",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 45,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T12:33:07.338Z",
+      "duration": "0.00",
+      "finished": "1730377987.34",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 47,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T12:34:07.338Z",
+      "duration": "0.01",
+      "finished": "1730378047.35",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 49,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T12:35:07.338Z",
+      "duration": "0.00",
+      "finished": "1730378107.34",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 51,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T12:36:07.338Z",
+      "duration": "0.00",
+      "finished": "1730378167.34",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 53,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T12:37:07.338Z",
+      "duration": "0.00",
+      "finished": "1730378227.34",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 55,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T12:39:49.604Z",
+      "duration": "0.02",
+      "finished": "1730378389.62",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 56,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T12:40:49.604Z",
+      "duration": "0.00",
+      "finished": "1730378449.61",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 58,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T12:42:40.431Z",
+      "duration": "0.02",
+      "finished": "1730378560.45",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 60,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T12:43:40.431Z",
+      "duration": "0.00",
+      "finished": "1730378620.44",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 63,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T12:45:37.143Z",
+      "duration": "0.02",
+      "finished": "1730378737.16",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 65,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T12:46:37.143Z",
+      "duration": "0.00",
+      "finished": "1730378797.15",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 67,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T12:48:04.927Z",
+      "duration": "0.02",
+      "finished": "1730378884.94",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 69,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T12:50:04.050Z",
+      "duration": "0.02",
+      "finished": "1730379004.07",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 70,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T12:51:04.050Z",
+      "duration": "0.00",
+      "finished": "1730379064.05",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 72,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T12:52:04.050Z",
+      "duration": "0.00",
+      "finished": "1730379124.05",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 74,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T12:55:17.840Z",
+      "duration": "0.02",
+      "finished": "1730379317.86",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 76,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T12:57:13.191Z",
+      "duration": "0.02",
+      "finished": "1730379433.21",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 78,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T12:58:13.191Z",
+      "duration": "0.02",
+      "finished": "1730379493.21",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 80,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T13:00:34.703Z",
+      "duration": "0.02",
+      "finished": "1730379634.72",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 82,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T13:01:34.703Z",
+      "duration": "0.00",
+      "finished": "1730379694.71",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 85,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T13:03:05.813Z",
+      "duration": "0.01",
+      "finished": "1730379785.82",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 87,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T13:04:05.813Z",
+      "duration": "0.00",
+      "finished": "1730379845.82",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 89,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T13:06:22.495Z",
+      "duration": "0.02",
+      "finished": "1730379982.51",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 90,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T13:07:22.495Z",
+      "duration": "0.00",
+      "finished": "1730380042.50",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 92,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T13:08:22.495Z",
+      "duration": "0.00",
+      "finished": "1730380102.50",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 94,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T13:09:22.495Z",
+      "duration": "0.00",
+      "finished": "1730380162.50",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 96,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T13:10:22.495Z",
+      "duration": "0.00",
+      "finished": "1730380222.50",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 98,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T13:11:22.495Z",
+      "duration": "0.00",
+      "finished": "1730380282.50",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 100,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T13:12:22.495Z",
+      "duration": "0.00",
+      "finished": "1730380342.50",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 102,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T13:13:22.495Z",
+      "duration": "0.00",
+      "finished": "1730380402.50",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 104,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T13:14:22.495Z",
+      "duration": "0.00",
+      "finished": "1730380462.50",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 106,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T13:15:22.495Z",
+      "duration": "0.00",
+      "finished": "1730380522.50",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 108,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T13:16:50.595Z",
+      "duration": "0.02",
+      "finished": "1730380610.61",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 109,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T13:17:50.595Z",
+      "duration": "0.00",
+      "finished": "1730380670.60",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 111,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T13:18:50.595Z",
+      "duration": "0.00",
+      "finished": "1730380730.60",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 113,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T17:34:35.396Z",
+      "duration": "0.02",
+      "finished": "1730396075.41",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 115,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T17:35:35.396Z",
+      "duration": "0.00",
+      "finished": "1730396135.40",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 117,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T17:36:35.396Z",
+      "duration": "0.00",
+      "finished": "1730396195.40",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 119,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T17:38:35.532Z",
+      "duration": "0.01",
+      "finished": "1730396315.55",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 120,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T17:40:18.016Z",
+      "duration": "0.02",
+      "finished": "1730396418.04",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 122,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T17:41:18.016Z",
+      "duration": "0.00",
+      "finished": "1730396478.02",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 124,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T17:42:36.327Z",
+      "duration": "0.02",
+      "finished": "1730396556.35",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 125,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T17:43:36.327Z",
+      "duration": "0.02",
+      "finished": "1730396616.35",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 126,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T17:46:40.910Z",
+      "duration": "0.02",
+      "finished": "1730396800.93",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 127,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T17:48:12.435Z",
+      "duration": "0.02",
+      "finished": "1730396892.46",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 129,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T17:50:12.589Z",
+      "duration": "0.02",
+      "finished": "1730397012.61",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 130,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T17:51:12.589Z",
+      "duration": "0.00",
+      "finished": "1730397072.59",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 132,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T17:52:43.704Z",
+      "duration": "0.02",
+      "finished": "1730397163.72",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 133,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T17:56:05.137Z",
+      "duration": "0.02",
+      "finished": "1730397365.15",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 134,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T18:03:42.168Z",
+      "duration": "0.02",
+      "finished": "1730397822.19",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 135,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T18:04:42.168Z",
+      "duration": "0.00",
+      "finished": "1730397882.17",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 137,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T18:05:42.168Z",
+      "duration": "0.00",
+      "finished": "1730397942.17",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 139,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T18:06:42.168Z",
+      "duration": "0.00",
+      "finished": "1730398002.17",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 141,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-10-31T18:07:42.168Z",
+      "duration": "0.00",
+      "finished": "1730398062.17",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 143,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-01T15:20:56.527Z",
+      "duration": "0.02",
+      "finished": "1730474456.55",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 145,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T13:53:43.231Z",
+      "duration": "0.02",
+      "finished": "1730555623.25",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 147,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T13:54:43.231Z",
+      "duration": "0.00",
+      "finished": "1730555683.23",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 149,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T13:55:43.231Z",
+      "duration": "0.00",
+      "finished": "1730555743.23",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 151,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T13:57:36.877Z",
+      "duration": "0.02",
+      "finished": "1730555856.90",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 153,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T13:58:36.877Z",
+      "duration": "0.00",
+      "finished": "1730555916.88",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 155,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T13:59:36.877Z",
+      "duration": "0.00",
+      "finished": "1730555976.88",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 157,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T14:02:06.928Z",
+      "duration": "0.02",
+      "finished": "1730556126.95",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 159,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T14:03:06.928Z",
+      "duration": "0.00",
+      "finished": "1730556186.93",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 161,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T14:04:06.928Z",
+      "duration": "0.01",
+      "finished": "1730556246.93",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 163,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T14:05:06.928Z",
+      "duration": "0.00",
+      "finished": "1730556306.93",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 165,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T14:07:06.539Z",
+      "duration": "0.02",
+      "finished": "1730556426.56",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 166,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T14:08:06.539Z",
+      "duration": "0.00",
+      "finished": "1730556486.54",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 168,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T14:09:06.539Z",
+      "duration": "0.00",
+      "finished": "1730556546.54",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 170,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T14:11:19.181Z",
+      "duration": "0.02",
+      "finished": "1730556679.20",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 171,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T14:12:19.181Z",
+      "duration": "0.00",
+      "finished": "1730556739.18",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 173,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T14:13:19.181Z",
+      "duration": "0.00",
+      "finished": "1730556799.18",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 175,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T14:14:19.181Z",
+      "duration": "0.01",
+      "finished": "1730556859.19",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 177,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T14:15:44.402Z",
+      "duration": "0.02",
+      "finished": "1730556944.42",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 178,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T14:16:44.402Z",
+      "duration": "0.00",
+      "finished": "1730557004.41",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 180,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T14:17:44.402Z",
+      "duration": "0.00",
+      "finished": "1730557064.40",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 182,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T16:00:45.378Z",
+      "duration": "0.02",
+      "finished": "1730563245.40",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 184,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T16:01:45.378Z",
+      "duration": "0.00",
+      "finished": "1730563305.38",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 186,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T16:03:06.219Z",
+      "duration": "0.00",
+      "finished": "1730563386.22",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 188,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T16:04:06.219Z",
+      "duration": "0.00",
+      "finished": "1730563446.22",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 190,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T16:06:32.799Z",
+      "duration": "0.54",
+      "finished": "1730563593.33",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 191,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T16:07:32.799Z",
+      "duration": "0.00",
+      "finished": "1730563652.80",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 193,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T16:08:32.799Z",
+      "duration": "0.00",
+      "finished": "1730563712.80",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 195,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T16:09:32.799Z",
+      "duration": "0.53",
+      "finished": "1730563773.33",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 196,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T16:10:32.799Z",
+      "duration": "0.00",
+      "finished": "1730563832.80",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 197,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T16:11:33.086Z",
+      "duration": "0.58",
+      "finished": "1730563893.67",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 198,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T16:12:33.086Z",
+      "duration": "0.01",
+      "finished": "1730563953.09",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 200,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T16:13:33.086Z",
+      "duration": "0.00",
+      "finished": "1730564013.09",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 203,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T16:14:33.086Z",
+      "duration": "0.00",
+      "finished": "1730564073.09",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 204,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T16:15:33.086Z",
+      "duration": "0.01",
+      "finished": "1730564133.09",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 206,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T16:51:27.219Z",
+      "duration": "0.02",
+      "finished": "1730566287.24",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 208,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T16:52:27.219Z",
+      "duration": "0.00",
+      "finished": "1730566347.22",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 210,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T16:53:27.219Z",
+      "duration": "0.01",
+      "finished": "1730566407.23",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 212,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T16:54:27.219Z",
+      "duration": "0.00",
+      "finished": "1730566467.22",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 214,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T16:55:27.219Z",
+      "duration": "0.00",
+      "finished": "1730566527.22",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 216,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T16:56:27.219Z",
+      "duration": "0.00",
+      "finished": "1730566587.22",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 218,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T16:57:27.219Z",
+      "duration": "0.00",
+      "finished": "1730566647.22",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 220,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T16:58:27.219Z",
+      "duration": "0.00",
+      "finished": "1730566707.22",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 222,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T16:59:27.219Z",
+      "duration": "0.00",
+      "finished": "1730566767.22",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 224,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T17:00:27.219Z",
+      "duration": "0.00",
+      "finished": "1730566827.22",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 226,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T17:01:27.219Z",
+      "duration": "0.00",
+      "finished": "1730566887.22",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 228,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T17:02:27.219Z",
+      "duration": "0.00",
+      "finished": "1730566947.22",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 230,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T17:03:27.219Z",
+      "duration": "0.00",
+      "finished": "1730567007.22",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 232,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T17:04:27.219Z",
+      "duration": "0.00",
+      "finished": "1730567067.22",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 234,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T17:05:27.219Z",
+      "duration": "0.00",
+      "finished": "1730567127.22",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 236,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T17:06:27.219Z",
+      "duration": "0.00",
+      "finished": "1730567187.22",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 238,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T17:07:27.219Z",
+      "duration": "0.00",
+      "finished": "1730567247.22",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 240,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T17:08:27.219Z",
+      "duration": "0.00",
+      "finished": "1730567307.22",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 242,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T17:09:27.219Z",
+      "duration": "0.00",
+      "finished": "1730567367.22",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 244,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T17:10:27.219Z",
+      "duration": "0.00",
+      "finished": "1730567427.22",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 246,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T17:11:27.219Z",
+      "duration": "0.01",
+      "finished": "1730567487.22",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 248,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T17:12:27.219Z",
+      "duration": "0.00",
+      "finished": "1730567547.22",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 250,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T17:13:27.219Z",
+      "duration": "0.00",
+      "finished": "1730567607.22",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 252,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T17:14:27.219Z",
+      "duration": "0.00",
+      "finished": "1730567667.22",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 254,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T17:15:27.219Z",
+      "duration": "0.00",
+      "finished": "1730567727.22",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 256,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T17:16:27.219Z",
+      "duration": "0.01",
+      "finished": "1730567787.22",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 258,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T17:17:27.219Z",
+      "duration": "0.00",
+      "finished": "1730567847.22",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 260,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T17:18:27.219Z",
+      "duration": "0.01",
+      "finished": "1730567907.22",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 262,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T17:19:27.219Z",
+      "duration": "0.00",
+      "finished": "1730567967.22",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 264,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T17:20:27.219Z",
+      "duration": "0.00",
+      "finished": "1730568027.22",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 266,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T17:43:58.377Z",
+      "duration": "0.02",
+      "finished": "1730569438.39",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 267,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T17:45:33.693Z",
+      "duration": "0.00",
+      "finished": "1730569533.70",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 268,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T17:50:48.444Z",
+      "duration": "0.02",
+      "finished": "1730569848.47",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 270,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T17:52:16.252Z",
+      "duration": "0.02",
+      "finished": "1730569936.27",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 271,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T17:53:16.252Z",
+      "duration": "0.01",
+      "finished": "1730569996.26",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 273,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T17:54:16.252Z",
+      "duration": "0.00",
+      "finished": "1730570056.26",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 275,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T17:55:16.252Z",
+      "duration": "0.00",
+      "finished": "1730570116.26",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 277,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T17:56:16.252Z",
+      "duration": "0.00",
+      "finished": "1730570176.26",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 279,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T17:57:16.252Z",
+      "duration": "0.00",
+      "finished": "1730570236.26",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 281,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T17:58:16.252Z",
+      "duration": "0.00",
+      "finished": "1730570296.26",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 283,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T17:59:16.252Z",
+      "duration": "0.00",
+      "finished": "1730570356.26",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 285,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:00:16.252Z",
+      "duration": "0.00",
+      "finished": "1730570416.25",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 287,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:01:16.252Z",
+      "duration": "0.00",
+      "finished": "1730570476.25",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 289,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:02:16.252Z",
+      "duration": "0.01",
+      "finished": "1730570536.26",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 291,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:03:16.252Z",
+      "duration": "0.01",
+      "finished": "1730570596.26",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 293,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:04:16.252Z",
+      "duration": "0.01",
+      "finished": "1730570656.26",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 295,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:05:16.252Z",
+      "duration": "0.01",
+      "finished": "1730570716.26",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 297,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:06:16.252Z",
+      "duration": "0.00",
+      "finished": "1730570776.26",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 299,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:07:16.252Z",
+      "duration": "0.01",
+      "finished": "1730570836.26",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 301,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:08:16.252Z",
+      "duration": "0.00",
+      "finished": "1730570896.26",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 303,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:09:16.252Z",
+      "duration": "0.01",
+      "finished": "1730570956.26",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 305,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:10:16.252Z",
+      "duration": "0.00",
+      "finished": "1730571016.26",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 307,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:11:16.252Z",
+      "duration": "0.00",
+      "finished": "1730571076.26",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 309,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:12:16.252Z",
+      "duration": "0.00",
+      "finished": "1730571136.26",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 312,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:13:16.252Z",
+      "duration": "0.00",
+      "finished": "1730571196.26",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 313,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:14:16.252Z",
+      "duration": "0.00",
+      "finished": "1730571256.26",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 315,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:16:12.280Z",
+      "duration": "0.02",
+      "finished": "1730571372.30",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 317,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:17:36.843Z",
+      "duration": "0.02",
+      "finished": "1730571456.86",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 319,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:18:36.843Z",
+      "duration": "0.00",
+      "finished": "1730571516.85",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 321,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:19:36.843Z",
+      "duration": "0.00",
+      "finished": "1730571576.85",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 323,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:20:36.843Z",
+      "duration": "0.00",
+      "finished": "1730571636.85",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 325,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:21:36.843Z",
+      "duration": "0.00",
+      "finished": "1730571696.85",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 327,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:22:36.843Z",
+      "duration": "0.00",
+      "finished": "1730571756.85",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 329,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:23:36.843Z",
+      "duration": "0.00",
+      "finished": "1730571816.85",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 331,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:24:36.843Z",
+      "duration": "0.00",
+      "finished": "1730571876.85",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 333,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:25:36.843Z",
+      "duration": "0.00",
+      "finished": "1730571936.85",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 335,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:26:36.843Z",
+      "duration": "0.00",
+      "finished": "1730571996.85",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 337,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:27:36.843Z",
+      "duration": "0.01",
+      "finished": "1730572056.85",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 339,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:28:36.843Z",
+      "duration": "0.00",
+      "finished": "1730572116.85",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 341,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:29:36.843Z",
+      "duration": "0.00",
+      "finished": "1730572176.85",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 343,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:31:45.219Z",
+      "duration": "0.02",
+      "finished": "1730572305.24",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 345,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:32:45.219Z",
+      "duration": "0.00",
+      "finished": "1730572365.22",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 347,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:33:45.219Z",
+      "duration": "0.00",
+      "finished": "1730572425.22",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 349,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:37:12.004Z",
+      "duration": "0.02",
+      "finished": "1730572632.03",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 351,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:38:12.004Z",
+      "duration": "0.00",
+      "finished": "1730572692.01",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 353,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:39:12.004Z",
+      "duration": "0.00",
+      "finished": "1730572752.01",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 355,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:40:12.004Z",
+      "duration": "0.00",
+      "finished": "1730572812.01",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 357,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:41:12.004Z",
+      "duration": "0.00",
+      "finished": "1730572872.01",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 359,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:42:12.004Z",
+      "duration": "0.01",
+      "finished": "1730572932.01",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 361,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:43:12.004Z",
+      "duration": "0.01",
+      "finished": "1730572992.01",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 363,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:44:12.004Z",
+      "duration": "0.01",
+      "finished": "1730573052.01",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 365,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:45:12.004Z",
+      "duration": "0.00",
+      "finished": "1730573112.01",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 367,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:46:12.004Z",
+      "duration": "0.00",
+      "finished": "1730573172.01",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 369,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:47:12.004Z",
+      "duration": "0.00",
+      "finished": "1730573232.01",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 371,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:48:12.004Z",
+      "duration": "0.00",
+      "finished": "1730573292.01",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 373,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:49:12.004Z",
+      "duration": "0.00",
+      "finished": "1730573352.01",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 375,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:50:28.240Z",
+      "duration": "0.02",
+      "finished": "1730573428.26",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 376,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:51:28.240Z",
+      "duration": "0.00",
+      "finished": "1730573488.24",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 378,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:52:28.240Z",
+      "duration": "0.00",
+      "finished": "1730573548.24",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 380,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:53:28.240Z",
+      "duration": "0.00",
+      "finished": "1730573608.25",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 382,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:54:28.240Z",
+      "duration": "0.01",
+      "finished": "1730573668.25",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 384,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:55:28.240Z",
+      "duration": "0.00",
+      "finished": "1730573728.24",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 386,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:56:28.240Z",
+      "duration": "0.01",
+      "finished": "1730573788.25",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 388,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:57:28.240Z",
+      "duration": "0.00",
+      "finished": "1730573848.25",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 390,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:58:28.240Z",
+      "duration": "0.00",
+      "finished": "1730573908.24",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 392,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T18:59:28.240Z",
+      "duration": "0.00",
+      "finished": "1730573968.24",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 394,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T19:01:28.252Z",
+      "duration": "0.02",
+      "finished": "1730574088.27",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 395,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-02T19:02:28.252Z",
+      "duration": "0.00",
+      "finished": "1730574148.26",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 397,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-03T16:02:20.177Z",
+      "duration": "0.02",
+      "finished": "1730649740.20",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 399,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-03T16:03:20.177Z",
+      "duration": "0.00",
+      "finished": "1730649800.18",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 401,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-03T16:04:20.177Z",
+      "duration": "0.00",
+      "finished": "1730649860.18",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 403,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-03T16:05:20.177Z",
+      "duration": "0.00",
+      "finished": "1730649920.18",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 405,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-03T16:07:18.048Z",
+      "duration": "0.02",
+      "finished": "1730650038.06",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 406,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-03T16:08:18.048Z",
+      "duration": "0.00",
+      "finished": "1730650098.05",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 408,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-03T16:10:00.324Z",
+      "duration": "0.02",
+      "finished": "1730650200.34",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 409,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-03T16:11:00.324Z",
+      "duration": "0.00",
+      "finished": "1730650260.33",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 411,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-03T16:12:00.324Z",
+      "duration": "0.00",
+      "finished": "1730650320.33",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 413,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-03T16:14:04.084Z",
+      "duration": "0.02",
+      "finished": "1730650444.10",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 415,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-03T16:15:32.103Z",
+      "duration": "0.01",
+      "finished": "1730650532.12",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 417,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-03T16:18:51.419Z",
+      "duration": "0.02",
+      "finished": "1730650731.43",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 418,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-03T16:19:51.419Z",
+      "duration": "0.00",
+      "finished": "1730650791.42",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 420,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-03T16:20:51.419Z",
+      "duration": "0.00",
+      "finished": "1730650851.42",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 422,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-03T16:21:51.419Z",
+      "duration": "0.00",
+      "finished": "1730650911.42",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 424,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-03T16:25:39.441Z",
+      "duration": "0.02",
+      "finished": "1730651139.46",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 425,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-03T16:26:39.441Z",
+      "duration": "0.00",
+      "finished": "1730651199.44",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 427,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-03T16:29:31.464Z",
+      "duration": "0.01",
+      "finished": "1730651371.48",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 429,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-03T16:30:31.464Z",
+      "duration": "0.00",
+      "finished": "1730651431.47",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 431,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-03T16:31:31.464Z",
+      "duration": "0.00",
+      "finished": "1730651491.47",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 433,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-03T16:32:31.464Z",
+      "duration": "0.00",
+      "finished": "1730651551.47",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 435,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-03T16:33:31.464Z",
+      "duration": "0.00",
+      "finished": "1730651611.47",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 437,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-03T16:34:31.464Z",
+      "duration": "0.00",
+      "finished": "1730651671.47",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 439,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T14:52:34.892Z",
+      "duration": "0.02",
+      "finished": "1730731954.91",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 441,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T14:53:34.892Z",
+      "duration": "0.00",
+      "finished": "1730732014.90",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 443,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T14:54:58.660Z",
+      "duration": "0.02",
+      "finished": "1730732098.68",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 444,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T14:55:58.660Z",
+      "duration": "0.00",
+      "finished": "1730732158.66",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 446,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T14:57:56.553Z",
+      "duration": "0.02",
+      "finished": "1730732276.57",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 447,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T14:59:28.355Z",
+      "duration": "0.02",
+      "finished": "1730732368.37",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 448,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T15:00:28.355Z",
+      "duration": "0.00",
+      "finished": "1730732428.36",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 450,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T15:02:01.348Z",
+      "duration": "0.02",
+      "finished": "1730732521.37",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 452,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T15:03:01.348Z",
+      "duration": "0.00",
+      "finished": "1730732581.35",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 454,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T15:04:01.348Z",
+      "duration": "0.00",
+      "finished": "1730732641.35",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 456,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T15:05:01.348Z",
+      "duration": "0.00",
+      "finished": "1730732701.35",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 458,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T15:06:01.348Z",
+      "duration": "0.00",
+      "finished": "1730732761.35",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 460,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T15:07:01.348Z",
+      "duration": "0.00",
+      "finished": "1730732821.35",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 462,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T15:08:01.348Z",
+      "duration": "0.00",
+      "finished": "1730732881.35",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 464,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T15:09:01.348Z",
+      "duration": "0.00",
+      "finished": "1730732941.35",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 466,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T15:10:01.348Z",
+      "duration": "0.00",
+      "finished": "1730733001.35",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 468,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T15:11:01.348Z",
+      "duration": "0.00",
+      "finished": "1730733061.35",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 470,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T15:12:01.348Z",
+      "duration": "0.00",
+      "finished": "1730733121.35",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 472,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T15:15:07.908Z",
+      "duration": "0.02",
+      "finished": "1730733307.93",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 474,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T15:27:01.346Z",
+      "duration": "0.02",
+      "finished": "1730734021.36",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 476,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T15:28:01.346Z",
+      "duration": "0.00",
+      "finished": "1730734081.35",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 478,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T15:29:52.590Z",
+      "duration": "0.02",
+      "finished": "1730734192.61",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 479,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T15:33:58.982Z",
+      "duration": "0.02",
+      "finished": "1730734439.00",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 480,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T15:36:25.287Z",
+      "duration": "0.02",
+      "finished": "1730734585.31",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 481,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T15:37:47.910Z",
+      "duration": "0.02",
+      "finished": "1730734667.93",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 482,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T15:39:42.555Z",
+      "duration": "0.02",
+      "finished": "1730734782.57",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 483,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T15:41:41.170Z",
+      "duration": "0.02",
+      "finished": "1730734901.19",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 484,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T15:42:41.170Z",
+      "duration": "0.00",
+      "finished": "1730734961.17",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 486,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T15:43:41.170Z",
+      "duration": "0.00",
+      "finished": "1730735021.17",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 488,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T15:44:41.170Z",
+      "duration": "0.00",
+      "finished": "1730735081.17",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 490,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T15:45:41.170Z",
+      "duration": "0.00",
+      "finished": "1730735141.17",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 492,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T15:46:41.170Z",
+      "duration": "0.00",
+      "finished": "1730735201.17",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 494,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T15:47:41.170Z",
+      "duration": "0.00",
+      "finished": "1730735261.17",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 496,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T15:48:41.170Z",
+      "duration": "0.00",
+      "finished": "1730735321.17",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 498,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T15:49:41.170Z",
+      "duration": "0.00",
+      "finished": "1730735381.17",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 500,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T15:50:41.170Z",
+      "duration": "0.00",
+      "finished": "1730735441.17",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 502,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T15:51:41.170Z",
+      "duration": "0.01",
+      "finished": "1730735501.18",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 504,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T15:52:41.170Z",
+      "duration": "0.00",
+      "finished": "1730735561.17",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 506,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T15:53:41.170Z",
+      "duration": "0.00",
+      "finished": "1730735621.17",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 508,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T15:55:01.315Z",
+      "duration": "0.02",
+      "finished": "1730735701.33",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 509,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T15:56:20.073Z",
+      "duration": "0.02",
+      "finished": "1730735780.09",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 511,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T15:57:20.073Z",
+      "duration": "0.00",
+      "finished": "1730735840.08",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 513,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T15:58:20.073Z",
+      "duration": "0.00",
+      "finished": "1730735900.08",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 515,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T15:59:20.073Z",
+      "duration": "0.74",
+      "finished": "1730735960.81",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 516,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:00:20.073Z",
+      "duration": "0.00",
+      "finished": "1730736020.08",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 518,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:01:20.073Z",
+      "duration": "0.57",
+      "finished": "1730736080.65",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 520,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:02:20.073Z",
+      "duration": "0.00",
+      "finished": "1730736140.08",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 522,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:03:20.073Z",
+      "duration": "0.00",
+      "finished": "1730736200.08",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 524,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:04:20.073Z",
+      "duration": "0.00",
+      "finished": "1730736260.08",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 526,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:05:20.073Z",
+      "duration": "0.00",
+      "finished": "1730736320.08",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 528,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:06:20.073Z",
+      "duration": "0.00",
+      "finished": "1730736380.08",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 530,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:07:20.073Z",
+      "duration": "0.00",
+      "finished": "1730736440.08",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 532,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:08:20.073Z",
+      "duration": "0.48",
+      "finished": "1730736500.55",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 533,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:09:20.073Z",
+      "duration": "0.00",
+      "finished": "1730736560.08",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 535,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:11:20.702Z",
+      "duration": "0.02",
+      "finished": "1730736680.72",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 536,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:12:20.702Z",
+      "duration": "0.00",
+      "finished": "1730736740.71",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 538,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:13:20.702Z",
+      "duration": "0.00",
+      "finished": "1730736800.71",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 540,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:14:20.702Z",
+      "duration": "0.00",
+      "finished": "1730736860.70",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 542,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:15:20.702Z",
+      "duration": "0.00",
+      "finished": "1730736920.71",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 544,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:16:20.702Z",
+      "duration": "0.00",
+      "finished": "1730736980.71",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 546,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:17:42.114Z",
+      "duration": "0.02",
+      "finished": "1730737062.13",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 547,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:18:42.114Z",
+      "duration": "0.00",
+      "finished": "1730737122.12",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 549,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:19:42.114Z",
+      "duration": "0.01",
+      "finished": "1730737182.12",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 551,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:21:54.862Z",
+      "duration": "0.02",
+      "finished": "1730737314.88",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 553,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:23:26.562Z",
+      "duration": "0.02",
+      "finished": "1730737406.58",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 554,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:24:26.562Z",
+      "duration": "0.00",
+      "finished": "1730737466.56",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 556,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:25:26.562Z",
+      "duration": "0.00",
+      "finished": "1730737526.56",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 558,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:26:26.562Z",
+      "duration": "0.00",
+      "finished": "1730737586.56",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 559,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:27:28.214Z",
+      "duration": "0.02",
+      "finished": "1730737648.23",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 560,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:30:38.103Z",
+      "duration": "0.02",
+      "finished": "1730737838.12",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 561,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:31:38.103Z",
+      "duration": "0.00",
+      "finished": "1730737898.11",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 563,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:32:44.198Z",
+      "duration": "0.02",
+      "finished": "1730737964.22",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 564,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:33:44.198Z",
+      "duration": "0.00",
+      "finished": "1730738024.20",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 566,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:34:44.198Z",
+      "duration": "0.00",
+      "finished": "1730738084.20",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 568,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:35:44.198Z",
+      "duration": "0.00",
+      "finished": "1730738144.20",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 570,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:36:44.198Z",
+      "duration": "0.00",
+      "finished": "1730738204.20",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 572,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:37:44.198Z",
+      "duration": "0.00",
+      "finished": "1730738264.20",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 574,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:38:44.198Z",
+      "duration": "0.01",
+      "finished": "1730738324.21",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 576,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:39:44.198Z",
+      "duration": "0.00",
+      "finished": "1730738384.20",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 578,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:40:44.198Z",
+      "duration": "0.00",
+      "finished": "1730738444.20",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 580,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:41:44.198Z",
+      "duration": "0.00",
+      "finished": "1730738504.20",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 582,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:42:44.198Z",
+      "duration": "0.00",
+      "finished": "1730738564.20",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 584,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:43:44.198Z",
+      "duration": "0.01",
+      "finished": "1730738624.20",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 586,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:44:44.198Z",
+      "duration": "0.00",
+      "finished": "1730738684.20",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 588,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:45:44.198Z",
+      "duration": "0.00",
+      "finished": "1730738744.20",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 590,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:46:44.198Z",
+      "duration": "0.00",
+      "finished": "1730738804.20",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 592,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:47:44.198Z",
+      "duration": "0.00",
+      "finished": "1730738864.20",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 594,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:48:44.198Z",
+      "duration": "0.00",
+      "finished": "1730738924.20",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 596,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:49:44.198Z",
+      "duration": "0.00",
+      "finished": "1730738984.20",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 598,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:50:44.198Z",
+      "duration": "0.00",
+      "finished": "1730739044.20",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 600,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:51:44.198Z",
+      "duration": "0.00",
+      "finished": "1730739104.20",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 602,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:52:44.198Z",
+      "duration": "0.00",
+      "finished": "1730739164.20",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 604,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:53:44.198Z",
+      "duration": "0.00",
+      "finished": "1730739224.20",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 606,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:54:44.198Z",
+      "duration": "0.00",
+      "finished": "1730739284.20",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 608,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:55:44.198Z",
+      "duration": "0.00",
+      "finished": "1730739344.20",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 610,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:56:44.198Z",
+      "duration": "0.00",
+      "finished": "1730739404.20",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 612,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:57:44.198Z",
+      "duration": "0.00",
+      "finished": "1730739464.20",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 614,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T16:58:44.198Z",
+      "duration": "0.00",
+      "finished": "1730739524.20",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 616,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T17:00:56.296Z",
+      "duration": "0.02",
+      "finished": "1730739656.32",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 617,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T17:01:56.296Z",
+      "duration": "0.00",
+      "finished": "1730739716.30",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 619,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T17:03:37.297Z",
+      "duration": "0.02",
+      "finished": "1730739817.31",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 620,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T17:05:22.192Z",
+      "duration": "0.02",
+      "finished": "1730739922.22",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 621,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T17:06:22.192Z",
+      "duration": "0.00",
+      "finished": "1730739982.20",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 623,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T17:08:38.697Z",
+      "duration": "0.02",
+      "finished": "1730740118.72",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 624,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T17:09:38.697Z",
+      "duration": "0.00",
+      "finished": "1730740178.70",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 626,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T17:10:38.697Z",
+      "duration": "0.00",
+      "finished": "1730740238.70",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 628,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T17:11:38.697Z",
+      "duration": "0.01",
+      "finished": "1730740298.70",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 630,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T17:12:38.697Z",
+      "duration": "0.00",
+      "finished": "1730740358.70",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 632,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T17:13:38.697Z",
+      "duration": "0.01",
+      "finished": "1730740418.70",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 634,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T17:14:38.697Z",
+      "duration": "0.01",
+      "finished": "1730740478.70",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 636,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T17:15:38.697Z",
+      "duration": "0.00",
+      "finished": "1730740538.70",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 638,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T17:16:38.697Z",
+      "duration": "0.00",
+      "finished": "1730740598.70",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 640,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T17:17:38.697Z",
+      "duration": "0.00",
+      "finished": "1730740658.70",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 643,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T17:18:38.697Z",
+      "duration": "0.01",
+      "finished": "1730740718.70",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 644,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T17:19:38.697Z",
+      "duration": "0.00",
+      "finished": "1730740778.70",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 646,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T17:21:26.588Z",
+      "duration": "0.02",
+      "finished": "1730740886.61",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 647,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T17:22:26.588Z",
+      "duration": "0.00",
+      "finished": "1730740946.59",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 649,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T17:23:52.941Z",
+      "duration": "0.02",
+      "finished": "1730741032.96",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 650,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T17:25:56.161Z",
+      "duration": "0.03",
+      "finished": "1730741156.19",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 652,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T17:26:56.161Z",
+      "duration": "0.00",
+      "finished": "1730741216.16",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 654,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T17:28:59.279Z",
+      "duration": "0.02",
+      "finished": "1730741339.30",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 656,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T17:29:59.279Z",
+      "duration": "0.00",
+      "finished": "1730741399.28",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 658,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T17:30:59.279Z",
+      "duration": "0.00",
+      "finished": "1730741459.28",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 660,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T17:31:59.279Z",
+      "duration": "0.00",
+      "finished": "1730741519.28",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 662,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T17:32:59.279Z",
+      "duration": "0.00",
+      "finished": "1730741579.28",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 664,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T17:33:59.279Z",
+      "duration": "0.01",
+      "finished": "1730741639.29",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 666,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T17:36:30.536Z",
+      "duration": "0.00",
+      "finished": "1730741790.54",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 668,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T17:37:44.783Z",
+      "duration": "0.00",
+      "finished": "1730741864.79",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 670,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T17:38:44.783Z",
+      "duration": "0.00",
+      "finished": "1730741924.79",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 672,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T17:39:44.783Z",
+      "duration": "0.00",
+      "finished": "1730741984.79",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 673,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-04T17:40:44.783Z",
+      "duration": "0.01",
+      "finished": "1730742044.79",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 674,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-05T16:28:58.791Z",
+      "duration": "0.59",
+      "finished": "1730824139.38",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 676,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-05T16:29:58.791Z",
+      "duration": "0.00",
+      "finished": "1730824198.79",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 678,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-05T16:30:58.791Z",
+      "duration": "0.01",
+      "finished": "1730824258.80",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 680,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-05T16:31:58.791Z",
+      "duration": "0.00",
+      "finished": "1730824318.79",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 682,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-05T16:32:58.791Z",
+      "duration": "0.01",
+      "finished": "1730824378.80",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 684,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-05T16:33:58.791Z",
+      "duration": "0.00",
+      "finished": "1730824438.80",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 686,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-05T16:34:58.791Z",
+      "duration": "0.00",
+      "finished": "1730824498.79",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 688,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-05T16:41:41.988Z",
+      "duration": "0.02",
+      "finished": "1730824902.00",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 689,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-05T16:43:10.257Z",
+      "duration": "0.02",
+      "finished": "1730824990.28",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 690,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-05T16:45:35.485Z",
+      "duration": "0.02",
+      "finished": "1730825135.50",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 691,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-05T16:46:50.068Z",
+      "duration": "0.02",
+      "finished": "1730825210.09",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 692,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-05T16:47:50.068Z",
+      "duration": "0.00",
+      "finished": "1730825270.07",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 694,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-05T16:49:42.355Z",
+      "duration": "0.01",
+      "finished": "1730825382.37",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 695,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-05T16:50:42.355Z",
+      "duration": "0.00",
+      "finished": "1730825442.36",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 697,
+    "fields": {
+      "job": "send_due_mailings",
+      "status": "Executed",
+      "run_time": "2024-11-05T16:51:42.355Z",
+      "duration": "0.00",
+      "finished": "1730825502.36",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": 7,
+    "fields": {
+      "password": "pbkdf2_sha256$870000$V4pmAUA0FSpfe5pLlm5WSJ$3Aag3oHC1TIeCLWyV5L6hj5+ter3lIsJULArKtr20Ug=",
+      "last_login": "2024-11-05T16:44:47.209Z",
+      "is_superuser": true,
+      "first_name": "",
+      "last_name": "",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2024-11-02T16:05:32Z",
+      "email": "admin@example.com",
+      "groups": [
+        3
+      ],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": 17,
+    "fields": {
+      "password": "pbkdf2_sha256$870000$tgPB42XPha6aZkp94T7rPo$MLJT7nvVaAHaQhHQpnYvt4plVGlwjTxVodUtXX598TM=",
+      "last_login": "2024-11-05T16:57:11.617Z",
+      "is_superuser": false,
+      "first_name": "",
+      "last_name": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2024-11-04T16:24:33.748Z",
+      "email": "mikhailmikhailusov@gmail.com",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": 18,
+    "fields": {
+      "password": "pbkdf2_sha256$870000$G6yl2ugCDT0lhDM21OG0oX$ZfvitFACq5P5iMhk2sjtiq1B/PVuPEXn+qB1FeQ1cSM=",
+      "last_login": "2024-11-05T16:15:36.081Z",
+      "is_superuser": false,
+      "first_name": "",
+      "last_name": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2024-11-05T13:10:25.183Z",
+      "email": "mishael000@yandex.ru",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "blogs.blogpost",
+    "pk": 1,
+    "fields": {
+      "title": "Какой-то блог",
+      "content": "Какой-то текст",
+      "image": "blogs/img/Снимок_экрана_от_2024-09-25_13-49-23.png",
+      "views": 0,
+      "published_date": "2024-11-02T18:50:02.316Z"
+    }
+  },
+  {
+    "model": "clients.client",
+    "pk": 1,
+    "fields": {
+      "email": "mishael000@yandex.ru",
+      "full_name": "Михайлусов Михаил Васильевич",
+      "comment": "123",
+      "owner": 7
+    }
+  },
+  {
+    "model": "message.message",
+    "pk": 1,
+    "fields": {
+      "topic": "ТЕСТ",
+      "body": "йцу",
+      "owner": 17
+    }
+  },
+  {
+    "model": "message.message",
+    "pk": 2,
+    "fields": {
+      "topic": "ТЕСТ2",
+      "body": "ФЫВФЫВ",
+      "owner": 7
+    }
+  }
+]

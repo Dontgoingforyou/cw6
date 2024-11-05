@@ -8,7 +8,5 @@
 <p><strong>Текст:</strong> {{ message.body }}</p>
 <p><strong>Владелец:</strong> {{ message.owner }}</p>
 
-<a href="{% url 'message:message_update' message.id %}" class="btn btn-warning">Редактировать</a>
-<a href="{% url 'message:message_delete' message.id %}" class="btn btn-danger">Удалить</a>
 <a href="{% url 'message:message_list' %}" class="btn btn-secondary">Назад к списку</a>
 {% endblock %}
